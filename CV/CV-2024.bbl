@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{https://doi.org/#1}
+
+\bibitem{franken-audala-2024}
+Franken, T.T.P., Neele, T.: {AuDaLa} is {Turing} {Complete}. In: FORTE 2024
+  Proc. LNCS, vol. 14678, pp. 221--229. Springer Nature Switzerland (2024).
+  \doi{10.1007/978-3-031-62645-6\_12}
+
+\bibitem{franken2024audalaturingcomplete}
+Franken, T.T.P., Neele, T.: Audala is turing complete (2024),
+  \url{https://arxiv.org/abs/2404.12934}, (Extended version of FORTE paper)
+
+\bibitem{franken-autonomous-2023}
+Franken, T.T.P., Neele, T., Groote, J.F.: An {Autonomous} {Data} {Language}.
+  In: {ICTAC} 2023 Proc. LNCS, vol. 14446, pp. 158--177. Springer Nature
+  Switzerland (2023). \doi{10.1007/978-3-031-47963-2\_11}
+
+\bibitem{leemrijse-ATVA}
+Leemrijse, G.P., Franken, T.T.P., Neele, T.: Formalisation of a new weak
+  semantics for audala. In: {ATVA} 2024 Proc. LNCS, Springer Nature Switzerland
+  (2024), (forthcoming publication, paper is accepted)
+
+\end{thebibliography}
