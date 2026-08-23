@@ -34,7 +34,7 @@ Alright, so that was the adventure. But wait! The store manager told me that it 
 
 As I was already considering my path to this other store (I had not quite understood exactly where it was, but sometimes having a terrible sense of following directions is a boon), it again turned out that no, I was lucky, this was a European version.
 
-I got a screen protector installed, paid for my Deck, tried out the [Viture glasses](https://www.viture.com/en-SG) they had (for I don't have a TV and these could be a nice replacement without requiring a TV), resolved to come back here if I needed anything else gaming related (their service was excellent) and left.
+I got a screen protector installed, paid for my Deck, tried out the [Viture glasses](https://www.tomsguide.com/computing/smart-glasses/viture-pro-2-xr-glasses-review) they had (for I don't have a TV and these could be a nice replacement without requiring a TV), resolved to come back here if I needed anything else gaming related (their service was excellent) and left.
 
 And so my quest ended. I did not see more marvelous sights, so instead here is a picture of Orchard Road, which I walked along to reach the bus stop.
 {% figure caption:"*Orchard Road, as seen during my Amble of Victory.*"%}
