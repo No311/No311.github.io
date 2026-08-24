@@ -61,7 +61,7 @@ It was *DELICIOUS*. At once savoury, incredibly fresh and filling. I cannot do i
 
 After dinner, I splurged a little and bought a bluetooth mouse and keyboard, for use with the Steam Deck and my laptop. My work posture has already improved in the few days that I have used them.
 
-The rest of the week I took it a bit easy, partly because I wanted to play with me Steam Machine, and partly because I have been kind of busy, and so the time has come to wind down. Friday I ate with David and Zhiyuan (a colleague) at Sanook, a nice Thai restaurant within walking distance of my house, where I saw an astounding explosion of road rage from a taxi driver. Also on Friday, I finetuned my audio setup and was able to enjoy some nice audios with Pim.
+The rest of the week I took it a bit easy, partly because I wanted to play with me Steam Deck, and partly because I have been kind of busy, and so the time has come to wind down. Friday I ate with David and Zhiyuan (a colleague) at Sanook, a nice Thai restaurant within walking distance of my house, where I saw an astounding explosion of road rage from a taxi driver. Also on Friday, I finetuned my audio setup and was able to enjoy some nice audios with Pim.
 
 Additionally, I also found these figures with a most royal bearing on Tuesday:
 {% figure %}
