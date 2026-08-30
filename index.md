@@ -5,7 +5,7 @@
 layout: home
 title: Home
 ---
-![Tom](/content/Tom.jpg){: style="float: right; padding: 10px 10px 10px 10px; width: 200px;"}
+![Tom](/content/Tom.jpg){: style="float: right; padding: 10px 10px 10px 10px; width: 200px; border-radius:25px;"}
 
 Welcome on my site!
 
@@ -14,5 +14,5 @@ In a short few days, I will be working as a research fellow for the [Trustworthy
 
 Previously, I have done my PhD at the [Formal System Analysis Group at the TU Eindhoven](https://fsa.win.tue.nl/), which led to the thesis [A Parallel Programming Perspective]({{ site.url }}/download/A_Parallel_Programming_Perspective.pdf).
 
-In my free time, I enjoy cooking, D&D and reading. I have been asked to keep a blog on my time in Singapore, which can be found [here]({{ site.baseurl }}{% link projects/Blog.md %}).![Poekie](/content/Poekie.jpeg){: style="float: right; padding: 10px 10px 10px 10px; width: 200px;"}
+In my free time, I enjoy cooking, D&D and reading. I have been asked to keep a blog on my time in Singapore, which can be found [here]({{ site.baseurl }}{% link projects/Blog.md %}).![Poekie](/content/Poekie.jpeg){: style="float: right; padding: 10px 10px 10px 10px; width: 200px; border-radius:25px;"}
 I also worship my cat, Poekie, who is sadly not joining me in Singapore.  
