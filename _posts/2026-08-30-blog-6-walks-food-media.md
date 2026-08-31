@@ -64,10 +64,10 @@ In the Netherlands, when the pressure got a bit much, I used to go home and work
 Let's start with allowing myself to work on the Software Foundations series at least two hours per day.
 Maybe this normalizes me being at the office longer.
 
-Thursday, me, David, Sungmin, Zhiyuan and Martin went to [Carnivore](https://www.carnivore.com.sg/), a delicious brazilian meat and fish  buffet restaurant which made me taste the best beef I have had in Singapore so far:
+Thursday, Martin, me, David, Sungmin and Zhiyuan went to [Carnivore](https://www.carnivore.com.sg/), a delicious brazilian meat and fish  buffet restaurant which made me taste the best beef I have had in Singapore so far:
 
 {% figure %}
-{% figure caption:"*At the Restaurant.*"%}
+{% figure caption:"*At the Restaurant, order from left to right as mentioned above.*"%}
 ![At the Restaurant]({{ site.baseurl }}/content/Blog6/AtTheRestaurant.jpg){: style="border-radius:25px;"}
 {% endfigure %}{: style="text-align:center; display:inline-block; padding: 0px 10px 0px 10px; min-width: 250px; width: 45%"}
 
