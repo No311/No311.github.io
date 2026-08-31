@@ -22,7 +22,7 @@ Marina Bay one of the fanciest places I have so far seen in Singapore.
 It seems to be very touristic, and the mall in Marina Bay Sands seems to be for fashion and the bling.
 Erfan did tell me that there was a bar on top of Marina Bay Sands, which I would be interested in visiting at some point.
 
-The walk ended up at the Merlion statue, which seems to be an iconic statue in Singapore. It was fun, but instead of describing it, I have pictures.
+The walk ended up at the [Merlion statue](https://en.wikipedia.org/wiki/Merlion), which seems to be an iconic statue in Singapore. It was fun, but instead of describing it, I have pictures.
 I will put them at the bottom of the blog, as there are quite a lot of pictures.
 
 On Tuesday, I finished *the Hobbit*.
@@ -149,11 +149,11 @@ Tom out.
 ![The Lotus]({{ site.baseurl }}/content/Blog6/LotusAtMBS.jpg){: style="border-radius:25px;"}
 {% endfigure %}{: style="text-align:center; display:inline-block; padding: 0px 10px 0px 10px; min-width: 250px; width: 45%"}
 
-{% figure caption:"*The Majestic Merlion.*" %}
+{% figure caption:"*The Majestic [Merlion](https://en.wikipedia.org/wiki/Merlion).*" %}
 ![Merlion]({{ site.baseurl }}/content/Blog6/Merlion1.jpg){: style="border-radius:25px;"}
 {% endfigure %}{: style="text-align:center; display:inline-block; padding: 0px 10px 0px 10px; min-width: 250px; width: 45%"}
 
-{% figure caption:"*The Majestic Merlion up close.*" %}
+{% figure caption:"*The Majestic [Merlion](https://en.wikipedia.org/wiki/Merlion) up close.*" %}
 ![Merlion Up Close]({{ site.baseurl }}/content/Blog6/Merlion2.jpg){: style="border-radius:25px;"}
 {% endfigure %}{: style="text-align:center; display:inline-block; padding: 0px 10px 0px 10px; min-width: 250px; width: 45%"}
 
